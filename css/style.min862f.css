@@ -3181,7 +3181,7 @@ nav.page-tabs .page-tabs-content {
 }
 
 #content-main {
-  height: calc(100% - 40px);
+  height: calc(100% - 42px);
   overflow: hidden
 }
 
